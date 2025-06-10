@@ -37,16 +37,7 @@ Nirva-Agni is an AI-powered autonomous fire detection and extinguishing system u
 
 ---
 
-## ⚙️ Hardware Components
 
-- 🔥 Flame Detection Camera Module (Raspberry Pi Camera / USB Cam)
-- ⚙️ 2-Axis Robotic Arm (Ceiling Mounted)
-- 💧 Water Pump + Sprayer Nozzle
-- 🧯 CO₂ Cylinder with Electromagnetic Trigger
-- 📲 GSM Module for SMS Alerts
-- 💡 LED Indicators, Buzzer, Servo Motors
-
----
 
 ## 🛠️ Tech Stack
 
